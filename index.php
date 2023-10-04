@@ -416,7 +416,7 @@ This location is in the Lundy neighborhood in Niagara Falls
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                     <div class="col-md-5 my-3  center-sm px-4 px-md-0">
                         <p class=" ">
-                            <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/Niagara/boutin-tower" target="_blank" class = "text-dark text-decoration-none">Joy Towns</a></h1>
+                            <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/niagara/joy-towns" target="_blank" class = "text-dark text-decoration-none">Joy Towns</a></h1>
                         </p>
                         <span class="small-text justifyy">
                         We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.  To learn more about Joy Towns Niagara, please contact the builder directly. </span>

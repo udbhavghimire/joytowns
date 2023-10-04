@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home4/shrutidu/joytowns.ca/
+    - export DEPLOYPATH=/home/bramp135/joytowns.ca/
     - /bin/cp -r * $DEPLOYPATH

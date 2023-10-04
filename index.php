@@ -116,7 +116,8 @@
                                         Starting from High $500's
                                         $749.9k - High $949.9k
                                     </h3> -->
-                                    <h1 class="fs-1 fw-bold pb-3" >JOY TOWNS NIAGARA</h1>
+                                    <h1 class=" fw-bold center-sm main-title">JOY TOWNS NIAGARA</h1>
+                                    <h2 class="headline-textt headline-textt-sm pb-3 fw-bold fs-5 center-sm" >Pricing starting from low <span style="color:red;"> $500!</span> </h2>
                                     <h2 class="headline-textt headline-textt-sm">
                                        
                                   <span class="fw-bold">Joy Towns</span>, a development by Branthaven, is an upcoming townhouse community in Niagara Falls, located on Oakwood Drive. These 2 and 3-story townhomes are thoughtfully designed to cater to the needs of growing families, multi-generational households, real estate investors, and those interested in shared homeownership. The project is expected to be completed in 2025.
@@ -131,9 +132,7 @@
                                 <p class="mybot pb-md-0 pb-0 ">
                                 Occupancy: 2025
                                 </p>
-                                <p class="mybot pb-md-0 pb-0 ">
-                                Pricing : Starting from the $500s
-                                </p>
+                                
 
                             </div>
                                 </h2>
@@ -203,6 +202,47 @@
         </section>
         </div>
 
+        <section>
+        <div class="container pt-3 "data-aos="fade-up" data-aos-duration="2000" data-aos-delay="200">
+        <div class="my-md-5 my-5"></div>
+        <div class="pt-md-5 pt-5"  data-aos="fade-up" >
+                    <h2 class="fw-bold fs-1 pb-3 ps-3 ps-md-0 d-flex justify-content-center brand-color center-sm">
+                        Details About Joy Towns in Niagara
+                    </h2>
+                    <p class="textt justify-content-center brand-color center-sm">
+                        Joy Towns in Niagara Falls is a Brand New Pre-construction development by Branthaven, Located at Oakwood Drive in Niagara Falls.
+                    </p>
+                </div>
+                <div class="d-flex justify-content-center text-center textt">
+                    <div class="list d-block ">
+                    <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">Developer:</span> Branthaven.
+                        </p>
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">Address:</span> Oakwood Drive, Niagara Falls, ON
+                        </p>
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">Intersection:</span> McLeod Rd and Oakwood Dr.
+                        </p>
+
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold"> Pricing: </span>Starting from the $500s!
+                        </p>
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">  Expected Completion: </span> 2025
+                        </p>
+
+
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold"> Number of Homes:</span> TBD
+                        </p>
+                       
+                    </div>
+
+                </div>
+        </div>
+    </section>
+
         <!-- <section class="pt-md-5 pt-2" id="features">
             <div class="container pt-md-2">
                 <div class="my-md-5 my-sm-4"></div>
@@ -258,7 +298,7 @@
         </section> -->
 
         <section>
-            <div class="container pt-md-2">
+            <div class="container pt-md-5 pt-sm-2">
                 <div class="pt-md-5 pt-5"></div>
                 <div class="py-5" id="location">
                     <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
@@ -379,7 +419,7 @@ This location is in the Lundy neighborhood in Niagara Falls
                             <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/Niagara/boutin-tower" target="_blank" class = "text-dark text-decoration-none">Joy Towns</a></h1>
                         </p>
                         <span class="small-text justifyy">
-                        We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about Joy Towns Niagara, please contact the builder directly. </span>
+                        We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.  To learn more about Joy Towns Niagara, please contact the builder directly. </span>
                         <div class="list pt-md-5 pt-3 d-md-block d-none">
                             <p class="">
                                 Website designed by

@@ -111,7 +111,7 @@
 
 .textt {
     font-size: 26px;
-    max-width: 800px;
+    max-width: 860px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -193,8 +193,12 @@
 }
 
 @media (max-width: 768px) {
+    .main-title {
+        font-size: 30px !important;
+    }
+
     #hero h1 {
-        font-size: 48px;
+        font-size: 52px;
         line-height: 46px;
     }
 

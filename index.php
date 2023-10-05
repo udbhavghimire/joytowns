@@ -17,8 +17,8 @@
 
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 
-    <title>Joy Towns | Niagara - Register Today </title>
-    <meta name="title" content="Joy Towns | Niagara - Register Today">
+    <title>Joy Towns Niagara | Starting from $500s - Register Today</title>
+    <meta name="title" content="Joy Towns Niagara | Starting from $500s - Register Today">
     <meta name="description" content="Joy Towns Niagara, a development by Branthaven, is an upcoming townhouse community in Niagara Falls, located on Oakwood Drive. The project is expected to be completed in 2025.">
     <meta name="keywords" content="Joy Towns, Joy Towns town, Joy Towns Niagara, Towns in Niagara, Joy Towns Branthaven, Branthaven">
     <meta name="robots" content="index, follow">
@@ -235,6 +235,20 @@
 
                         <p class="mybot pb-md-0 pb-0 ">
                             <span class="fw-bold"> Number of Homes:</span> TBD
+                        </p>
+                        <br>
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">3-Storey Back-To-Back Townhome -</span> 1150 sq.ft. - 1500sq.ft
+                        </p>
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">3-Storey Traditional Townhome -</span> 1450 sq.ft. - 1500sq.ft
+                        </p>
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">2-Storey Traditional Townhome -</span> 1500 sq.ft. - 1700sq.ft
+                        </p>
+
+                        <p class="mybot pb-md-0 pb-0 ">
+                            <span class="fw-bold">3-Storey Rear Lane Townhome with Secondary Suite -</span> 1950 sq.ft. - 2100sq.ft
                         </p>
                        
                     </div>

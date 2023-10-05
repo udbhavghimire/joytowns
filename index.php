@@ -401,6 +401,19 @@ This location is in the Lundy neighborhood in Niagara Falls
                                         <div class="mb-3"><input type="text" aria-describedby="emailHelp" placeholder="Email" name="email" id="email" class="fields" required></div>
                                     </div>
                                 </div>
+                                <div class="row me-0 row-cols-1">
+                                <div class="col">
+                                    <div class="mb-3">
+                                        <div class="form-floating">
+                                            <select class="form-select" name="realtor" id="realtor" aria-label="Floating label select example" required>
+                                                <option value="No">No</option>
+                                                <option value="Yes">Yes</option>
+                                            </select>
+                                            <label for="floatingSelect">Are you a realtor or working with one? </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                                 <div class="row">
                                     <div class=" "><textarea name="message" id="message" placeholder="Enter your message" class="fields mess" required></textarea></div>
                                 </div>

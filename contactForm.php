@@ -20,6 +20,7 @@ $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@joytowns.ca', $_POST['name']);
+$mail->addAddress('samvalji.homebaba@gmail.com');
 $mail->addAddress('milan@homebaba.ca');
 
 $mail->addReplyTo($_POST['email']);

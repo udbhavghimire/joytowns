@@ -446,7 +446,7 @@ This location is in the Lundy neighborhood in Niagara Falls
                             <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/niagara/joy-towns" target="_blank" class = "text-dark text-decoration-none">Joy Towns</a></h1>
                         </p>
                         <span class="small-text justifyy">
-                        We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.  To learn more about Joy Towns Niagara, please contact the builder directly. </span>
+                        We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Sam Valji, Sales Representative from Bay Street Group Inc. Email: samvalji.homebaba@gmail.com</span>
                         <div class="list pt-md-5 pt-3 d-md-block d-none">
                             <p class="">
                                 Website designed by
